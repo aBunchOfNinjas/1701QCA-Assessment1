@@ -46,47 +46,46 @@ This experiment could be the basis of a real world application such as in your p
 #### Photo of completed project ####
 
 
-![Image](IMG_6924)
-![Image](IMG_6409)
-
+![Image](IMG_6924.jpeg)
+![Image](IMG_6409.jpeg)
+Light in dimmed state and applyed code.
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was using variables, in the code for this experiment a variable was used this was done so that an external button could be used this the potentiometer. i was also introduced to how the wire specific componants such as the potentiometer. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a simple dimmable light switch in your house.
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+4. Using a Transistor to drive a motor.
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
-
-(Insert a caption here)
+![Image](IMG_1096.jpeg)
+Fan running at high speed.
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was pulse width modulation, this was explaned in class too but the use of PWM with math and logic in the code can create different effects with componates like a motor. EG slowing down and speeding up again. 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as an electric motor in a toy car. A radio would recive the input value an this would be applyed to the motor using PWM.
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+5. Using the Accelerometer
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
 
-(Insert a caption here)
+![Image](IMG_1099.jpeg)
+![Image](IMG_1102.jpeg)
+
+Tilting the micro bit to change the speed of the fan.
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was how to use the inbult accelerometer. The micro bit has an accelerometer built in and as again has its onw way to use it in the code, in doing this experement I learned how to use this code.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as may of the car racing video games and even consoles such as the wii.
 
