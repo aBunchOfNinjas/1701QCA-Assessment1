@@ -14,7 +14,7 @@
 
 ![Image](IMG_7125.jpeg)
 
-(Experement 1 pressing button a to trigger the led screen.)
+Experement 1 pressing button a to trigger the led screen.
 
 #### Reflection ####
 
@@ -35,20 +35,20 @@ Shining light on phototransister to display sun on led display.
 
 #### Reflection ####
 
-In this experiment, something new to me was or something I learned was (insert something here).
+In this experiment, something new to me was or something I learned was logic in code. This experement introduced us to digital logic and how to use it in the make code editor. As the editor is its own type of language learning the intricusys of how logic is used in the editor is quite important to get the most functionality out of the microbit. I will also be needed in later projects most likely.
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as in your phone! What? Yes when your phone is on its screen and you flip it over and it atomaticaly lights up this is the result of a phototransistor.
 
 ### Experiment name ###
 
-(Replace this with the experiment name)
+3. Dimming an LED Using a Potentiometer.
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
 
-(Insert a caption here)
+![Image](IMG_6924)
+![Image](IMG_6409)
+
 
 #### Reflection ####
 
