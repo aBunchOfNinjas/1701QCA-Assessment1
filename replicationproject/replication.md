@@ -87,11 +87,13 @@ This project is related to mine because it is made of a simmiler construction an
 *Complete the following information.*
 
 ### Project title ###
+Plant Hydration system
 
 ### Project description ###
 
 *In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
 
+The plant watering device is to be use for autonamas plant watering. The device determines the moisture level of the soil and waters as needed. The project could be used in a veriety of use cases most effective uses could be elderly persons that have trouble using a watering can or persons that are very time poor or find regular watering hard.   
 ### Showcase image ###
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
