@@ -11,13 +11,23 @@ Plant Watering
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+Soil moisture
 
-(Insert URL to project)
+https://makecode.microbit.org/projects/soil-moisture/code
 
-![Image](missingimage.png)
+![Image](soilmoisture.jpg)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it is a prelimanary fundimental part. This soil moisture measuring is one of the key functions of my project and I used this resource to aid in my own build.
+
+### Related project 2 ###
+Cardboard and microbit dinosaur
+
+https://www.youtube.com/watch?v=zDyJhbDgcXI At 4:20 an explination and demistraion of this project is shown. 
+https://www.youtube.com/watch?v=795JntPTa-w Additional video of it being put together. 
+
+![Image](cardbardtrex.jpeg)
+
+This project is related to mine because it is made of a simmiler construction and made with the microbit.
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
