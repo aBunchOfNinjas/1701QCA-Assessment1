@@ -68,7 +68,7 @@ This project is related to mine because it is made of a simmiler construction an
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
+![Image](flowchart.png)
 
 ## Process documentation
 
@@ -77,6 +77,9 @@ This project is related to mine because it is made of a simmiler construction an
 *This should have quite a lot of information!*
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+
+## Project Inisalisation ##
+Once the nature of the project was decided(plant watering) the first thing that was done was to research and review the supplyed project and reletive infomation. Thankfully this was in the form of a video showing how to assemble the project, its function and the needed coding. A quick discovery here was that there was a previous experement that detailed one of the key funtions of the project. This experement showed how to measure the moisture in soil and can be found [here](https://makecode.microbit.org/projects/soil-moisture/code). 
 
 ![Image](IMG_1103.PNG)
 ![Image](IMG_0982.jpg)
