@@ -84,10 +84,23 @@ Once the nature of the project was decided(plant watering) the first thing that 
 The above image shows the implementation of this experement. How this works is that a signal is sent to pin one and the strength that signal is measured at pin 0, a stronger means that the soil is moist, whereas a weaker one means the soil is dry. This is due to the conductivity of the moisture and nutrients in the soil. The below image is the code for this experiment. 
 ![Image](code1.PNG)
 
+
 ### Addition of a Motor ###
 To further the project I decided to add a motor as a proof of concept to show in class, this was also a part of the sample project so it seemed nessesary. One problem however was that the sample project used a servo and the function and implimentation of the sevro is different to the motor. This is were I expereienced most of my problems with the project. 
+A key resource in troubleshooting this was experiment 4 in the booklet that showed how to use the motor.
 ![Image](code3.png)
-The above image shows and iteration to the code. In this I was trying to have the motor trigger as if I was watering the plants the error I was making was that not all of the pins of the micro bit can 
+The above image shows and iteration to the code. In this I was trying to have the motor trigger as if I was watering the plants the error I was making was that not all of the pins of the micro bit have the same functionality. To resolve this the motor control was moved to pin 0 and the moisture sensing used pins 1 & 2. Simmiler errors like this were encountered through out the project with another instence having the ground lead plugged into the wrong pin and so on.
+The below images show the implementation of the motor into the system. The motor was a good proof of concept as it showed the process of the project as it would be when completed.
+![Image](IMG_6739.jpg)
+
+### Addition of a Servo ###
+To complete the functionality of the project a servo was to be added to replace the motor. This was thankfully borrowed from QCA and was a key ingredient in watering the plant. The implementation of the project from this point was much the same a the project supplyed. One hurdel of this was finding out how to use the servo the microbit website was consulted and this query was quickly answered. The link to that website is [HERE](https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit).
+![Image](IMG_4570.jpg)
+The image above shows the servo conected to the prototype board with aproapreate colour coding the other wires are for the probe.
+
+### Housing Design and Build ###
+
+In designing the housing there was no formal plan made. I had the enital idea of having the plant and cup sit on top of the microbit but no more planing than this. So from here it was straight to building
 
 ![Image](IMG_1103.PNG)
 ![Image](IMG_0982.jpg)
