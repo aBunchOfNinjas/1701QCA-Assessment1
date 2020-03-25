@@ -78,14 +78,17 @@ This project is related to mine because it is made of a simmiler construction an
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-## Project Inisalisation ##
+### Project Inisalisation ###
 Once the nature of the project was decided(plant watering) the first thing that was done was to research and review the supplyed project and reletive infomation. Thankfully this was in the form of a video showing how to assemble the project, its function and the needed coding. A quick discovery here was that there was a previous experement that detailed one of the key funtions of the project. This experement showed how to measure the moisture in soil and can be found [here](https://makecode.microbit.org/projects/soil-moisture/code). 
 ![Image](IMG_1907.jpg)
 The above image shows the implementation of this experement. How this works is that a signal is sent to pin one and the strength that signal is measured at pin 0, a stronger means that the soil is moist, whereas a weaker one means the soil is dry. This is due to the conductivity of the moisture and nutrients in the soil. The below image is the code for this experiment. 
 ![Image](code1.PNG)
 
-## Addition of a Motor ##
-To 
+### Addition of a Motor ###
+To further the project I decided to add a motor as a proof of concept to show in class, this was also a part of the sample project so it seemed nessesary. One problem however was that the sample project used a servo and the function and implimentation of the sevro is different to the motor. This is were I expereienced most of my problems with the project. 
+![Image](code3.png)
+The above image shows and iteration to the code. In this I was trying to have the motor trigger as if I was watering the plants the error I was making was that not all of the pins of the micro bit can 
+
 ![Image](IMG_1103.PNG)
 ![Image](IMG_0982.jpg)
 
