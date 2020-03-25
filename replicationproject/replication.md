@@ -25,7 +25,7 @@ Cardboard and microbit dinosaur
 https://www.youtube.com/watch?v=zDyJhbDgcXI At 4:20 an explination and demistraion of this project is shown. 
 https://www.youtube.com/watch?v=795JntPTa-w Additional video of it being put together. 
 
-![Image](cardbardtrex.jpeg)
+![Image](cardbardtrex.png)
 
 This project is related to mine because it is made of a simmiler construction and made with the microbit.
 
@@ -100,7 +100,16 @@ The image above shows the servo conected to the prototype board with aproapreate
 
 ### Housing Design and Build ###
 
-In designing the housing there was no formal plan made. I had the enital idea of having the plant and cup sit on top of the microbit but no more planing than this. So from here it was straight to building
+In designing the housing there was no formal plan made. I had the enital idea of having the plant and cup sit on top of the microbit but no more planing than this. So from here it was straight to building, the dimentions of the prototyping board were measured as seen below and this was then used as a basis for the edge piece measurements. The hight of the box was determined as 5 cm as this fit everything in and left some room to move.
+![Image](IMG_1106.jpg)
+
+Once the box was made it seemed apparent that the box alone may not support a full cup of water and a plant (plus a spill could be the end of the microbit) this lead me to add a support piece of card in the center of the box. Once the centre card was added the ridgitity of the box was greatly improved it was decided to use this a main support for a wirestand. To improve the visual design of the project a tree like wirestand was concived. 
+![Image](IMG_2475.jpg)
+The above image shows the cutout pieces of the stand. A tree was mimiced in the shape of the card to go with the theme of plant watering. 
+To further improve the ridgitity of the project, part of the stand goes through the top sheet and adheres to the centre card this is shown in the image below.
+![Image](IMG_1103.PNG)
+
+
 
 ![Image](IMG_1103.PNG)
 ![Image](IMG_0982.jpg)
