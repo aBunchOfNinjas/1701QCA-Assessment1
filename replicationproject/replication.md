@@ -25,7 +25,7 @@ Cardboard and microbit dinosaur
 https://www.youtube.com/watch?v=zDyJhbDgcXI At 4:20 an explination and demistraion of this project is shown. 
 https://www.youtube.com/watch?v=795JntPTa-w Additional video of it being put together. 
 
-![Image](cardbardtrex.png)
+![Image](cardbardtrex.PNG)
 
 This project is related to mine because it is made of a simmiler construction and made with the microbit.
 
