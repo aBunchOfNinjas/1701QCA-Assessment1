@@ -25,7 +25,7 @@ Cardboard and microbit dinosaur
 https://www.youtube.com/watch?v=zDyJhbDgcXI At 4:20 an explination and demistraion of this project is shown. 
 https://www.youtube.com/watch?v=795JntPTa-w Additional video of it being put together. 
 
-![Image](cardbardtrex.PNG)
+![Image](cardboardtrex.png)
 
 This project is related to mine because it is made of a simmiler construction and made with the microbit.
 
@@ -106,13 +106,19 @@ In designing the housing there was no formal plan made. I had the enital idea of
 Once the box was made it seemed apparent that the box alone may not support a full cup of water and a plant (plus a spill could be the end of the microbit) this lead me to add a support piece of card in the center of the box. Once the centre card was added the ridgitity of the box was greatly improved it was decided to use this a main support for a wirestand. To improve the visual design of the project a tree like wirestand was concived. 
 ![Image](IMG_2475.jpg)
 The above image shows the cutout pieces of the stand. A tree was mimiced in the shape of the card to go with the theme of plant watering. 
-To further improve the ridgitity of the project, part of the stand goes through the top sheet and adheres to the centre card this is shown in the image below.
-![Image](IMG_1103.PNG)
+To further improve the ridgitity of the project, part of the stand goes through the top sheet and adheres to the centre card this is shown in the image below. As seen in the image below there is are holes cut in the centre to accomodate for the wirestand. In reality once the stand was dry fit and had a cup and plant on top the stand did not fit. To resolve this it was moved to the back edge. An alternative could have been to make the base and stand bigger however as this was hand cut it was too much labor to start again. 
+![Image](IMG_1107.jpg)
+
+### Technical Details ###
+
+The implimentation of the code was the same as the example supplyed now that a servo could be used. The micro bit makes the use of the servo extremely easy in the make code editor. The code used is down below. 
+![Image](IMG_1103.jpg)
+One point to note is the threshold for if the soil is moist or dry. Above in the if statement it is writen as 500 this is the value supplyed in the previous soil moisture experiment and the supplyed example project. This value was then trialed with a variety of soils to see if it was accurate(it was).
+
+Other experimentation included finding the appropreate angle for the straw, an angle was supplyed but this was not enough and was increased by 20 degrees after this it worked fine. 
 
 
 
-![Image](IMG_1103.PNG)
-![Image](IMG_0982.jpg)
 
 *Include screenshots of the code you have used.*
 
@@ -132,13 +138,13 @@ The plant watering device is to be use for autonamas plant watering. The device 
 
 *Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](IMG_1103.PNG)
 
 ### Additional view ###
 
 *Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](IMG_0982.jpg)
 
 ### Reflection ###
 
