@@ -60,7 +60,7 @@ This project uses a microcontroller simmiler to the microbit.
 ### Related project 6 ###
 Cardboard stool
 
-![Image](cardboardstool.png)
+![Image](cardboardstool.jpeg)
 
 This project uses a simmiler design of slotted cardboard fit together.
 
