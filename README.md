@@ -16,5 +16,5 @@ You can edit this workbook here: [Inventor Kit Experiments](/experiments/experim
 You can edit this workbook here: [Replication Project](/replicationproject/replication.md)
 
 ### Watch the project in action here ###
-https://youtu.be/-7fZHgew4H4
+[https://youtu.be/-7fZHgew4H4](https://youtu.be/-7fZHgew4H4)
 
