@@ -29,6 +29,41 @@ https://www.youtube.com/watch?v=795JntPTa-w Additional video of it being put tog
 
 This project is related to mine because it is made of a simmiler construction and made with the microbit.
 
+### Related project 3 ###
+Cardboard drink despenser
+
+https://www.youtube.com/watch?v=k0ERi0Bt8Gk
+
+![Image](drinkdespenser.png)
+
+This project is related to mine because it is made of a simmiler construction.
+
+### Related project 4 ###
+Automated cat feeder
+
+https://www.youtube.com/watch?v=hKnmdphkzsk
+
+![Image](catfeeder.png)
+
+This project is related to mine because it is made of a simmiler construction and made with the microbit.
+The project also uses the same conponants. 
+
+### Related project 5 ###
+Microcontroller arcade
+
+https://www.youtube.com/watch?v=X6IX27FILus
+
+![Image](arcade.png)
+
+This project uses a microcontroller simmiler to the microbit.
+
+### Related project 6 ###
+Cardboard stool
+
+![Image](cardboardstool.png)
+
+This project uses a simmiler design of slotted cardboard fit together.
+
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
