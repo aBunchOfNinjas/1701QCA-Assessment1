@@ -150,17 +150,28 @@ An aspect of the project that I found most successful was my understanding the t
 
 Other aspects of the project that were not as successful was the aesthetics and design. Overall the result was fine however, it was not perfect. Issues such as material and size were the most obvious in the limited testing done. The cardboard material was great in every aspect execpt one, its duribility with water, due to the nature of the project using a different material would be benifical for long term use. The other point noted was the overall size of the project, the final result fit an average low cup and a small plant quite well but had no capability for anything bigger. Scaling the project up in general could have made the project more accomodating but for much larger plants a completely different design would need to be considered. Some simpler fixes to the design would be making the tree wire stand higher, as well as making further ittereations of the prototype.
 
+### Resources ###
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
-Some additonal information that I sort out was
+The addtional informaion that was used is listed below. The two top links were definatly the most used as they detailed the exact technical function of the project. Other resources were consulted to fill gaps in my knowledge such as conccecting the servo and using the motor.
 
-*Example project
-*https://makecode.microbit.org/projects/plant-watering
-*Soil Moisture experiment
-*https://makecode.microbit.org/projects/soil-moisture/code 
-*Connecting servo to Microbit
-*https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit
+
+* Example project
+* https://makecode.microbit.org/projects/plant-watering
+* Soil Moisture experiment
+* https://makecode.microbit.org/projects/soil-moisture/code 
+* Connecting servo to Microbit
+* https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit
+* Experiment 4 in the inventors kit book
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
+Other approches and techniques used such as the slot together cardboard design was inspired by other projects I have seen that use such techniques. There is not a single link to provide but I have watched videos and seen project were makers use simmiler techniques. Also cardboard creations like the softdrink despenser shown in class inspired the construction. 
+
+Some of the makers that have inspired my work are:
+* Adam Savage
+* William Osman
+* 'I like to make stuff' Youtube channel
 
 *What might be an interesting extension of this project? In what other contexts might this project be used?*
+
+An additon to the project could be to make it be able to hang from the side of a pot this would be better for larger plants. Adding different probes to measure other attributes of the soil could also be and extention of the project, even if the watering feature was removed more sensors could be added to make a more accurate soil tester.  
