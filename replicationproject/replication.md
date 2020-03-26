@@ -78,7 +78,7 @@ This project is related to mine because it is made of a simmiler construction an
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-### Project Inisalisation ###
+### Project Initialisation ###
 Once the nature of the project was decided(plant watering) the first thing that was done was to research and review the supplyed project and reletive infomation. Thankfully this was in the form of a video showing how to assemble the project, its function and the needed coding. A quick discovery here was that there was a previous experement that detailed one of the key funtions of the project. This experement showed how to measure the moisture in soil and can be found [here](https://makecode.microbit.org/projects/soil-moisture/code). 
 ![Image](IMG_1907.jpg)
 The above image shows the implementation of this experement. How this works is that a signal is sent to pin one and the strength that signal is measured at pin 0, a stronger means that the soil is moist, whereas a weaker one means the soil is dry. This is due to the conductivity of the moisture and nutrients in the soil. The below image is the code for this experiment. 
@@ -106,7 +106,7 @@ In designing the housing there was no formal plan made. I had the enital idea of
 Once the box was made it seemed apparent that the box alone may not support a full cup of water and a plant (plus a spill could be the end of the microbit) this lead me to add a support piece of card in the center of the box. Once the centre card was added the ridgitity of the box was greatly improved it was decided to use this a main support for a wirestand. To improve the visual design of the project a tree like wirestand was concived. 
 ![Image](IMG_2475.jpg)
 The above image shows the cutout pieces of the stand. A tree was mimiced in the shape of the card to go with the theme of plant watering. The cardboard was also cut to slide together for greater strangth.
-To further improve the ridgitity of the project, part of the stand goes through the top sheet and adheres to the centre card this is shown in the image below. As seen in the image below there is are holes cut in the centre to accomodate for the wirestand. In reality once the stand was dry fit and had a cup and plant on top the stand did not fit. To resolve this it was moved to the back edge. An alternative could have been to make the base and stand bigger however as this was hand cut it was too much labor to start again. 
+To further improve the rigidity of the project, part of the stand goes through the top sheet and adheres to the centre card this is shown in the image below. As seen in the image below there is are holes cut in the centre to accomodate for the wire stand. In reality once the stand was dry fit and had a cup and plant on top the stand did not fit. To resolve this it was moved to the back edge. An alternative could have been to make the base and stand bigger however as this was hand cut it was too much labor to start again. 
 ![Image](IMG_1107.jpg)
 
 ### Technical Details ###
@@ -120,29 +120,25 @@ Other experimentation included finding the appropreate angle for the straw, an a
 
 
 
-*Include screenshots of the code you have used.*
+
 
 ## Project outcome ##
 
-*Complete the following information.*
 
 ### Project title ###
 Plant Hydration system
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
 
-The plant watering device is to be use for autonamas plant watering. The device determines the moisture level of the soil and waters as needed. The project could be used in a veriety of use cases most effective uses could be elderly persons that have trouble using a watering can or persons that are very time poor or find regular watering hard.   
+The plant watering device is to be use for autonomas plant watering. The device determines the moisture level of the soil and waters as needed. The project could be used in a veriety of use cases most effective uses could be elderly persons that have trouble using a watering can or persons that are very time poor or find regular watering hard. A typical use of the proeject would see it be turned on and set up and then just left alone to water the plant as it is needed.  
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
 ![Image](IMG_1103.PNG)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
 ![Image](IMG_0982.jpg)
 
@@ -150,9 +146,19 @@ The plant watering device is to be use for autonamas plant watering. The device 
 
 *Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
 
+An aspect of the project that I found most successful was my understanding the technical processes and functions of the project. The supplyed project included a video and further explenation of how the project works, this was all very helpful in developing my understanding. Overall I have a solid understanding of how and why the device does what it does an could readily reproduce it. 
+
+Other aspects of the project that were not as successful was the aesthetics and design. Overall the result was fine however, it was not perfect. Issues such as material and size were the most obvious in the limited testing done. The cardboard material was great in every aspect execpt one, its duribility with water, due to the nature of the project using a different material would be benifical for long term use. The other point noted was the overall size of the project, the final result fit an average low cup and a small plant quite well but had no capability for anything bigger. Scaling the project up in general could have made the project more accomodating but for much larger plants a completely different design would need to be considered. Some simpler fixes to the design would be making the tree wire stand higher, as well as making further ittereations of the prototype.
 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+Some additonal information that I sort out was
 
+Example project
+https://makecode.microbit.org/projects/plant-watering
+Soil Moisture experiment
+https://makecode.microbit.org/projects/soil-moisture/code 
+Connecting servo to Microbit
+https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
