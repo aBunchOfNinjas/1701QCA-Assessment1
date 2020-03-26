@@ -153,12 +153,12 @@ Other aspects of the project that were not as successful was the aesthetics and 
 *What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
 Some additonal information that I sort out was
 
-Example project
-https://makecode.microbit.org/projects/plant-watering
-Soil Moisture experiment
-https://makecode.microbit.org/projects/soil-moisture/code 
-Connecting servo to Microbit
-https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit
+*Example project
+*https://makecode.microbit.org/projects/plant-watering
+*Soil Moisture experiment
+*https://makecode.microbit.org/projects/soil-moisture/code 
+*Connecting servo to Microbit
+*https://support.microbit.org/support/solutions/articles/19000101864-using-a-servo-with-the-micro-bit
 
 *What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
 
